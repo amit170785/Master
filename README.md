@@ -1,2 +1,2 @@
-# chef
-Chef repository for learning.
+# projects
+branch for all self projects in any language.
