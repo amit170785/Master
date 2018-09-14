@@ -1,4 +1,6 @@
+# Master
+REPO for all kinds of learning, projects and other POCs.
 # learning
-Master branch for all types of self assigned projects/activities for leaning.
+Branch for all types of leaning modules.
 
 
