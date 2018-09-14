@@ -13,3 +13,5 @@ echo "Installing ruby ...."
 sudo apt-get install ruby-full -y
 
 echo "Installation Complete!!!!"
+echo "Ruby version."
+ruby -v
