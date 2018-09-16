@@ -1,0 +1,11 @@
+Ruby is an object oriented language. The features of the object-oriented 
+programming language are as follows.
+
+    - Encapsulation
+    - Abstraction
+    - Polymorphism
+    - Inheritance
+
+Every value in ruby is an object, even the primitive data types like strings, 
+numbers, boolean etc are objects. Even class is an object that is an instance 
+of the Class class. 
