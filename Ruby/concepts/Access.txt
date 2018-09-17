@@ -1,0 +1,10 @@
+Ruby has three levels of protection at instance methods level, which are 
+public, private and protected
+
+    Public     : These methods are public and exposed to the external world.
+    Private    : These methods are kept hidden from the external world and can 
+                 be accesed only by other class members in same class.
+    Protected  : These methods are kept hidden from the external world and can 
+                 be accessed only by other class members and in other classes 
+                 inherited from this class.
+
